@@ -116,4 +116,3 @@ http://localhost:8000/api/documentation
 
 ## ⭐ Give It a Star!
 If you found this project helpful or interesting, please give it a star on GitHub! It helps others discover the project and motivates us to keep improving it. 🌟  
-[Click here to star the repository!](https://github.com/IslamTaleb11/klinik-laravel-api)  
