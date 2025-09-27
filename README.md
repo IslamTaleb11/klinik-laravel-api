@@ -18,7 +18,6 @@ https://github.com/IslamTaleb11/klinik-vuejs
 - 🔐 **Authentication**: Secure login and registration with Laravel Sanctum for token-based authentication.
 - 📡 **RESTful API**: Well-documented and fully RESTful endpoints, ensuring smooth integration with any frontend.
 - 🔑 **Role-Based Access Control**: Granular permissions for admins, doctors, nurses, pharmacists, and patients.
-- 🚀 **Scalable Architecture**: Optimized to support large clinic operations with room for future expansion.
 - 🏢 **Admin Dashboard**: Centralized management for appointments, user roles, doctor schedules, and more.
 - 👨‍⚕️ **Doctors Dashboard**: Manage patient appointments, check schedules, and access patient records.
 - 👩‍⚕️ **Nurses Dashboard**: Manage patient data, assist with scheduling, and handle medication tracking.
